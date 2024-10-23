@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729332078340
+current_stage: None
+description: null
+last_updated_timestamp: 1729332078340
+name: Product_Review_Rating_Prediction
+run_id: 1b7adf15fa1942c7945328ec77cc5fd2
+run_link: null
+source: file:///C:/Users/20155/OneDrive/Desktop/MLflow_Flask/MLflow_Flask/mlruns/633439604491187202/1b7adf15fa1942c7945328ec77cc5fd2/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/20155/OneDrive/Desktop/MLflow_Flask/MLflow_Flask/mlruns/633439604491187202/1b7adf15fa1942c7945328ec77cc5fd2/artifacts/model
+user_id: null
+version: 1

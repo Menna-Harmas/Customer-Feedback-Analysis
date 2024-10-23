@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/20155/OneDrive/Desktop/MLflow_Flask/MLflow_Flask/mlruns/633439604491187202/1b7adf15fa1942c7945328ec77cc5fd2/artifacts
+end_time: 1729332078367
+entry_point_name: ''
+experiment_id: '633439604491187202'
+lifecycle_stage: active
+run_id: 1b7adf15fa1942c7945328ec77cc5fd2
+run_name: powerful-robin-511
+run_uuid: 1b7adf15fa1942c7945328ec77cc5fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729331883314
+status: 3
+tags: []
+user_id: '20155'
